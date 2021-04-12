@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
@@ -388,7 +383,7 @@ figure {
   color: #43A6C6;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #ff5722 !important;
+  color: red !important;
 }
 
 #fh5co-menu-wrap {

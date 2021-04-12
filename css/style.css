@@ -380,10 +380,10 @@ figure {
   }
 }
 #fh5co-logo a {
-  color: #43A6C6;
+  color: #ff5722;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: red !important;
+  color: #ff5722 !important;
 }
 
 #fh5co-menu-wrap {
@@ -1136,7 +1136,7 @@ figure {
 }
 
 #footer {
-  background: #43A6C6;
+  background: #ff5622;
   padding: 60px 0 40px;
 }
 #footer p {

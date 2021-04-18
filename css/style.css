@@ -128,6 +128,27 @@ figure {
   }
 }
 
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 1150px;
+}
+
+.gallery:hover {
+  border: 3px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 30px;
+  text-align: center;
+}
+
 .fh5co-cover,
 .fh5co-hero {
   position: relative;

@@ -127,6 +127,12 @@ figure {
     text-align: center !important;
   }
 }
+.gallery02{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 150px;
+}
 
 .gallery {
   margin: 5px;
